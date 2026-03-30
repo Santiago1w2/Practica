@@ -1,2 +1,3 @@
-#XD
 print("Holaaaaa")
+print("hola mundo")
+
